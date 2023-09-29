@@ -1,0 +1,82 @@
+body{
+    padding: 0;
+    line-height: .8;
+}
+header{
+    background-color: rgba(42, 70, 197, 0.86);
+    min-height: 100px;
+    margin: 0px;
+    background-image:url('images/imgg.jpg');
+    background-size:100%;
+    background-position: 100%;
+}
+/* #im1{
+    opacity: 0%;
+} */
+header nav{
+    padding-top: 20px;
+    float:right;
+    display: inline;
+}
+li{
+    display: inline;
+    padding-right: 10px;
+    
+}
+header a{
+    text-decoration: none;
+    color:white;
+}
+header a:hover{
+    opacity: 50%;
+    color: rgb(245, 2, 2);
+}
+.name{
+    color: white;
+    padding-left: 10px;
+    float: left;
+}
+header .current a {
+    color: rgb(23, 164, 157);
+}
+#edu{
+    padding-left: 10px;
+    font-size: 20px;
+}
+#im2{
+    padding-top: 50px;
+    padding-left: 100px;
+
+}
+
+#im2{
+    width: 300px;
+    height: 300px;
+
+    border-radius: 150px;
+}
+#ph{
+    display: inline;
+}
+#im3{
+    display: inline;
+    width: 15px;
+    height: 12px;
+}
+#im4{
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+}
+#mail{
+    display: inline-block;
+}
+.linkedin{
+    text-decoration: none;
+}
+#dec{
+    text-align: center;
+    
+    margin-top: 100px;
+   /* padding-left: 200px; */
+}
