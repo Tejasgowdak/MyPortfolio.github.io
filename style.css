@@ -50,10 +50,10 @@ header .current a {
 }
 
 #im2{
-    width: 300px;
-    height: 300px;
+    width: 25%;
+    height: 25%;
 
-    border-radius: 150px;
+    border-radius: 50%;
 }
 #ph{
     display: inline;
@@ -79,4 +79,19 @@ header .current a {
     
     margin-top: 100px;
    /* padding-left: 200px; */
+}
+.certificates{
+    padding: 20px;
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+}
+.tabl{
+    padding-top: 25px;
+    width: 60%;
+    height: 60%; 
+    margin-left: 20%;
+}
+td{
+    text-align:center;
 }
